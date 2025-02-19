@@ -4,7 +4,7 @@ I am Mboya Michael. I'm working at WEquil where we're trying to revolutionise le
 students to undergo self directed learning, and build a community of curious individuals
 
 - 🔭 I’m currently working on [WEquil](https://wequil.app)
-- 🌱 I’m currently learning Vue/Nuxt, Tailwind
+- 🌱 Have experience with Vue/Nuxt, Tailwind, and learning React
 - 💬 Ask me about Flutter and Dart 
 - 📫 How to reach me: [Twitter](https://twitter.com/MboyaMichael1)
 - 😄 Pronouns: he/him

@@ -6,7 +6,7 @@ students to undergo self directed learning, and build a community of curious ind
 - 🔭 I’m currently working on [WEquil](https://wequil.app)
 - 🌱 I’m currently learning Vue/Nuxt, Tailwind
 - 💬 Ask me about Flutter and Dart 
-- 📫 How to reach me: [WEquil](https://wequil.app) / [Twitter](https://twitter.com/MboyaMichael1)
+- 📫 How to reach me: [Twitter](https://twitter.com/MboyaMichael1)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There's no limit to the breadth of topics one can learn.
 
